@@ -3,7 +3,6 @@
   
   <!-- Placeholder for Network logo -->
   <!-- Assuming the logo is placed towards the top-left, adjust as needed -->
-  <rect x="10%" y="5%" width="120" height="24" fill="grey" />
   <text x="10%" y="5%" dy="18" fill="white" font-size="12" font-family="Arial, sans-serif" text-anchor="start">Logo</text>
 
   <!-- Adjusted positions for padding -->
