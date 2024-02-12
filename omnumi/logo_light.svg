@@ -1,0 +1,17 @@
+<svg width="3200" height="1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background is transparent -->
+  
+  <!-- Placeholder for Network logo -->
+  <!-- Assuming the logo is placed towards the top-left, adjust as needed -->
+  <text x="10%" y="5%" dy="18" fill="white" font-size="12" font-family="Arial, sans-serif" text-anchor="start">Logo</text>
+
+  <!-- Adjusted positions for padding -->
+  <!-- Letter "O" -->
+  <text x="12%" y="30%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="350" font-family="Arial, sans-serif">O</text>
+  <!-- Horizontal Line, adjusted for equal distance -->
+  <line x1="7%" y1="55%" x2="17%" y2="55%" stroke="black" stroke-width="20" />
+  <!-- Letter "N", adjusted for equal distance -->
+  <text x="12%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="350" font-family="Arial, sans-serif">N</text>
+  <!-- Text "OMNUMI", font size adjusted for consistency -->
+  <text x="60%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="600" font-family="Arial, sans-serif">OMNUMI</text>
+</svg>
