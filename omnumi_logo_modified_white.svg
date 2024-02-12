@@ -8,5 +8,5 @@
   <!-- Letter "N" -->
   <text x="10%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="300" font-family="Arial, sans-serif">N</text>
   <!-- Text "OMNUMI" -->
-  <text x="65%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="450" font-family="Arial, sans-serif">OMNUMI</text>
+  <text x="65%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="550" font-family="Arial, sans-serif">OMNUMI</text>
 </svg>
