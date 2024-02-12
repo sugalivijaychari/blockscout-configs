@@ -11,5 +11,5 @@
     <text x="15%" y="80%" dominant-baseline="middle" text-anchor="middle">N</text>
   </g>
   <!-- Text "OMNUMI" -->
-  <text x="75%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="300" font-family="Arial, sans-serif">OMNUMI</text>
+  <text x="75%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="400" font-family="Arial, sans-serif">OMNUMI</text>
 </svg>
