@@ -6,7 +6,7 @@
   <!-- Horizontal Line, adjusted for equal distance -->
   <line x1="5%" y1="50%" x2="15%" y2="50%" stroke="black" stroke-width="20" />
   <!-- Letter "N", adjusted for equal distance -->
-  <text x="10%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="350" font-family="Arial, sans-serif">N</text>
+  <text x="10%" y="90%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="350" font-family="Arial, sans-serif">N</text>
   <!-- Text "OMNUMI", font size adjusted for consistency -->
   <text x="65%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="550" font-family="Arial, sans-serif">OMNUMI</text>
 </svg>
