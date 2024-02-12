@@ -9,5 +9,5 @@
   <!-- Letter "N", adjusted for equal distance -->
   <text x="12%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="350" font-family="Arial, sans-serif">N</text>
   <!-- Text "OMNUMI", font size adjusted for consistency -->
-  <text x="70%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="550" font-family="Arial, sans-serif">OMNUMI</text>
+  <text x="70%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="600" font-family="Arial, sans-serif">OMNUMI</text>
 </svg>
