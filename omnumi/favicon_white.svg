@@ -4,7 +4,7 @@
   <!-- Letter "O" -->
   <text x="50%" y="30%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="150" font-family="Arial, sans-serif">O</text>
   <!-- Horizontal Line -->
-  <line x1="25%" y1="45%" x2="75%" y2="45%" stroke="black" stroke-width="10" />
+  <line x1="25%" y1="60%" x2="75%" y2="60%" stroke="black" stroke-width="10" />
   <!-- Letter "N" -->
   <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="150" font-family="Arial, sans-serif">N</text>
 </svg>
