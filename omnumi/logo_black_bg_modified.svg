@@ -12,12 +12,12 @@
   
   <!-- OMNUMI text background segments -->
   <!-- Adjust the x, y, width, and height to match the visual style of the reference -->
-  <rect x="65%" y="46%" width="80" height="100" fill="white" />
-  <rect x="67.5%" y="46%" width="80" height="100" fill="white" />
-  <rect x="70%" y="46%" width="80" height="100" fill="white" />
-  <rect x="72.5%" y="46%" width="80" height="100" fill="white" />
-  <rect x="75%" y="46%" width="80" height="100" fill="white" />
-  <rect x="77.5%" y="46%" width="80" height="100" fill="white" />
+  <rect x="65%" y="46%" width="400" height="200" fill="white" />
+  <rect x="67.5%" y="46%" width="400" height="200" fill="white" />
+  <rect x="70%" y="46%" width="400" height="200" fill="white" />
+  <rect x="72.5%" y="46%" width="400" height="200" fill="white" />
+  <rect x="75%" y="46%" width="400" height="200" fill="white" />
+  <rect x="77.5%" y="46%" width="400" height="200" fill="white" />
   
   <!-- Text "OMNUMI" with black text color -->
   <text x="71%" y="55%" dominant-baseline="middle" text-anchor="middle" fill="black" font-size="100" font-family="Arial, sans-serif">OMNUMI</text>
